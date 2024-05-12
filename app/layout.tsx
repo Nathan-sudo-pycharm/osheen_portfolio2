@@ -10,6 +10,7 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
+  icon: "/favicon.ico",
   title: "Osheen Dcosta",
   description: "This is my Personal Website",
 };
